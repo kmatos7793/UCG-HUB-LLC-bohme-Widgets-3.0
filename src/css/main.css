@@ -198,4 +198,12 @@ body {
 .cliboard-holder * {
   font-family: "Roboto", sans-serif;
 }
+
+#yotpo-reviews-tab .yotpo-headline {
+    align-self: center;
+}
+
+.modal-backdrop.yotpo-review-form-modal .yotpo-star-rating-wrapper .yotpo-star-rating-icons-wrapper legend {
+    float: unset;
+}
 /*# sourceMappingURL=main.css.map */
